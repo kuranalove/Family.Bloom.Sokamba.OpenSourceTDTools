@@ -8,7 +8,7 @@ GITHUB INSTRUCTIONS (thanks to Ben for the tutorial!):
 On github.com, find and download the Github Desktop app if you don’t already have it. 
 
 Create an account, and then Login on Github Desktop. 
-Copy the link for this repository: https://github.com/compassionav/The_Fam_Tools.git
+Copy the link for this repository: https://github.com/kuranalove/The_Fam_Tools.git
 
 Under “Repository,” > Repository Settings, copy that link in, and if you have the opportunity to move the local folder on the line below, you can move it to “Users > Apps > Touchdesigner099.app (right click) Show Contents > Contents > Resources > tfs > Samples > Comp,” which should place it in the folder that shows up in the palatte browser in TD. I recommend right clicking the “The_Fam_Tools” folder and selecting “make alias” and dragging that somewhere more quickly accessible, so you can save time saving your .toxes.
 
